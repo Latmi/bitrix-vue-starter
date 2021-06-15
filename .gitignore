@@ -1,0 +1,7 @@
+/bitrix
+.DS_Store
+.idea
+/upload
+node_modules
+
+
